@@ -1,4 +1,3 @@
-# BIT_datamining
 ## 作业1：数据探索性分析与预处理
   ### 数据说明
         数据集1：wine-reviews，包含两个csv文件：
