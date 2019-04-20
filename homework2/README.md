@@ -8,7 +8,6 @@ homework2/
 &emsp;&emsp;--freq_set.json     
 &emsp;&emsp;--rules.json
 &emsp;&emsp;--result.png
-
 &emsp;--src  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# 源码目录     
 &emsp;&emsp;associasionr.py  
 &emsp;&emsp;data.py  
