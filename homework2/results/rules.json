@@ -1,0 +1,146 @@
+{"X_set": [["province", "Champagne"]], "Y_set": [["region_1", "Champagne"]], "sup": 0.012410460795100445, "conf": 1.0, "lift": 80.57718536887786, "cosine": 1.0}
+{"X_set": [["region_1", "Champagne"]], "Y_set": [["province", "Champagne"]], "sup": 0.012410460795100445, "conf": 1.0, "lift": 80.57718536887786, "cosine": 1.0}
+{"X_set": [["province", "Champagne"]], "Y_set": [["country", "France"], ["region_1", "Champagne"]], "sup": 0.012410460795100445, "conf": 1.0, "lift": 80.57718536887786, "cosine": 1.0}
+{"X_set": [["region_1", "Champagne"]], "Y_set": [["country", "France"], ["province", "Champagne"]], "sup": 0.012410460795100445, "conf": 1.0, "lift": 80.57718536887786, "cosine": 1.0}
+{"X_set": [["province", "South Australia"]], "Y_set": [["country", "Australia"]], "sup": 0.010379238445499381, "conf": 1.0, "lift": 55.80549592099614, "cosine": 0.7610640897673218}
+{"X_set": [["country", "Australia"]], "Y_set": [["province", "South Australia"]], "sup": 0.010379238445499381, "conf": 0.579218548733362, "lift": 55.80549592099614, "cosine": 0.7610640897673218}
+{"X_set": [["region_1", "Alsace"]], "Y_set": [["province", "Alsace"]], "sup": 0.016642174023436, "conf": 1.0, "lift": 53.26680327868853, "cosine": 0.94152823103509}
+{"X_set": [["region_1", "Alsace"]], "Y_set": [["province", "Alsace"], ["country", "France"]], "sup": 0.016642174023436, "conf": 1.0, "lift": 53.26680327868853, "cosine": 0.94152823103509}
+{"X_set": [["province", "Alsace"]], "Y_set": [["region_1", "Alsace"]], "sup": 0.016642174023436, "conf": 0.8864754098360657, "lift": 53.26680327868853, "cosine": 0.94152823103509}
+{"X_set": [["province", "Alsace"]], "Y_set": [["country", "France"], ["region_1", "Alsace"]], "sup": 0.016642174023436, "conf": 0.8864754098360657, "lift": 53.26680327868853, "cosine": 0.94152823103509}
+{"X_set": [["region_1", "Barolo"]], "Y_set": [["province", "Piedmont"], ["variety", "Nebbiolo"]], "sup": 0.012302744458379178, "conf": 1.0, "lift": 48.787912912912915, "cosine": 0.7747420378585541}
+{"X_set": [["region_1", "Barolo"], ["country", "Italy"]], "Y_set": [["province", "Piedmont"], ["variety", "Nebbiolo"]], "sup": 0.012302744458379178, "conf": 1.0, "lift": 48.787912912912915, "cosine": 0.7747420378585541}
+{"X_set": [["region_1", "Barolo"]], "Y_set": [["province", "Piedmont"], ["country", "Italy"], ["variety", "Nebbiolo"]], "sup": 0.012302744458379178, "conf": 1.0, "lift": 48.787912912912915, "cosine": 0.7747420378585541}
+{"X_set": [["province", "Piedmont"], ["variety", "Nebbiolo"]], "Y_set": [["region_1", "Barolo"], ["country", "Italy"]], "sup": 0.012302744458379178, "conf": 0.6002252252252253, "lift": 48.787912912912915, "cosine": 0.7747420378585541}
+{"X_set": [["region_1", "Finger Lakes"]], "Y_set": [["province", "New York"]], "sup": 0.012041147640627525, "conf": 1.0, "lift": 48.352306547619044, "cosine": 0.7630316257566012}
+{"X_set": [["region_1", "Finger Lakes"]], "Y_set": [["province", "New York"], ["country", "US"]], "sup": 0.012041147640627525, "conf": 1.0, "lift": 48.352306547619044, "cosine": 0.7630316257566012}
+{"X_set": [["province", "New York"]], "Y_set": [["region_1", "Finger Lakes"]], "sup": 0.012041147640627525, "conf": 0.5822172619047619, "lift": 48.352306547619044, "cosine": 0.7630316257566012}
+{"X_set": [["province", "New York"]], "Y_set": [["region_1", "Finger Lakes"], ["country", "US"]], "sup": 0.012041147640627525, "conf": 0.5822172619047619, "lift": 48.352306547619044, "cosine": 0.7630316257566012}
+{"X_set": [["country", "Italy"], ["variety", "Nebbiolo"]], "Y_set": [["region_1", "Barolo"], ["province", "Piedmont"]], "sup": 0.012302744458379178, "conf": 0.5844298245614036, "lift": 47.50402046783626, "cosine": 0.764480100827617}
+{"X_set": [["region_1", "Barolo"]], "Y_set": [["country", "Italy"], ["variety", "Nebbiolo"]], "sup": 0.012302744458379178, "conf": 1.0, "lift": 47.504020467836256, "cosine": 0.764480100827617}
+{"X_set": [["region_1", "Barolo"], ["province", "Piedmont"]], "Y_set": [["country", "Italy"], ["variety", "Nebbiolo"]], "sup": 0.012302744458379178, "conf": 1.0, "lift": 47.504020467836256, "cosine": 0.764480100827617}
+{"X_set": [["region_1", "Barolo"]], "Y_set": [["variety", "Nebbiolo"]], "sup": 0.012302744458379178, "conf": 1.0, "lift": 46.35199714693295, "cosine": 0.755153478462648}
+{"X_set": [["variety", "Nebbiolo"]], "Y_set": [["region_1", "Barolo"]], "sup": 0.012302744458379178, "conf": 0.5702567760342369, "lift": 46.35199714693295, "cosine": 0.755153478462648}
+{"X_set": [["variety", "Nebbiolo"]], "Y_set": [["region_1", "Barolo"], ["province", "Piedmont"]], "sup": 0.012302744458379178, "conf": 0.5702567760342369, "lift": 46.35199714693295, "cosine": 0.755153478462648}
+{"X_set": [["variety", "Nebbiolo"]], "Y_set": [["region_1", "Barolo"], ["country", "Italy"]], "sup": 0.012302744458379178, "conf": 0.5702567760342369, "lift": 46.35199714693295, "cosine": 0.755153478462648}
+{"X_set": [["variety", "Nebbiolo"]], "Y_set": [["region_1", "Barolo"], ["province", "Piedmont"], ["country", "Italy"]], "sup": 0.012302744458379178, "conf": 0.5702567760342369, "lift": 46.35199714693295, "cosine": 0.755153478462648}
+{"X_set": [["region_1", "Mendoza"]], "Y_set": [["province", "Mendoza Province"]], "sup": 0.017703949342545645, "conf": 1.0, "lift": 39.81954656862745, "cosine": 0.8396208878381467}
+{"X_set": [["region_1", "Mendoza"]], "Y_set": [["province", "Mendoza Province"], ["country", "Argentina"]], "sup": 0.017703949342545645, "conf": 1.0, "lift": 39.81954656862745, "cosine": 0.8396208878381467}
+{"X_set": [["province", "Mendoza Province"]], "Y_set": [["region_1", "Mendoza"]], "sup": 0.017703949342545645, "conf": 0.7049632352941176, "lift": 39.81954656862745, "cosine": 0.8396208878381467}
+{"X_set": [["province", "Mendoza Province"]], "Y_set": [["region_1", "Mendoza"], ["country", "Argentina"]], "sup": 0.017703949342545645, "conf": 0.7049632352941176, "lift": 39.81954656862745, "cosine": 0.8396208878381467}
+{"X_set": [["region_1", "Barolo"]], "Y_set": [["province", "Piedmont"]], "sup": 0.012302744458379178, "conf": 1.0, "lift": 34.85411638508984, "cosine": 0.6548292046086269}
+{"X_set": [["region_1", "Barolo"]], "Y_set": [["province", "Piedmont"], ["country", "Italy"]], "sup": 0.012302744458379178, "conf": 1.0, "lift": 34.85411638508984, "cosine": 0.6548292046086269}
+{"X_set": [["region_1", "Barolo"], ["variety", "Nebbiolo"]], "Y_set": [["province", "Piedmont"], ["country", "Italy"]], "sup": 0.012302744458379178, "conf": 1.0, "lift": 34.85411638508984, "cosine": 0.6548292046086269}
+{"X_set": [["province", "Mendoza Province"]], "Y_set": [["country", "Argentina"]], "sup": 0.02511329450415862, "conf": 1.0, "lift": 34.202894736842104, "cosine": 0.9267941348654795}
+{"X_set": [["region_1", "Mendoza"]], "Y_set": [["country", "Argentina"]], "sup": 0.017703949342545645, "conf": 1.0, "lift": 34.202894736842104, "cosine": 0.7781557143589409}
+{"X_set": [["country", "Argentina"]], "Y_set": [["province", "Mendoza Province"]], "sup": 0.02511329450415862, "conf": 0.8589473684210526, "lift": 34.202894736842104, "cosine": 0.9267941348654795}
+{"X_set": [["country", "Argentina"]], "Y_set": [["region_1", "Mendoza"]], "sup": 0.017703949342545645, "conf": 0.6055263157894737, "lift": 34.202894736842104, "cosine": 0.7781557143589409}
+{"X_set": [["country", "Argentina"]], "Y_set": [["region_1", "Mendoza"], ["province", "Mendoza Province"]], "sup": 0.017703949342545645, "conf": 0.6055263157894737, "lift": 34.202894736842104, "cosine": 0.7781557143589409}
+{"X_set": [["province", "Piedmont"]], "Y_set": [["country", "Italy"], ["variety", "Nebbiolo"]], "sup": 0.02049688007324711, "conf": 0.7144006436041834, "lift": 33.936902796008525, "cosine": 0.8340267541675334}
+{"X_set": [["region_1", "Rioja"]], "Y_set": [["province", "Northern Spain"]], "sup": 0.011302521331681683, "conf": 1.0, "lift": 33.749935081796934, "cosine": 0.6176239642410922}
+{"X_set": [["region_1", "Rioja"]], "Y_set": [["province", "Northern Spain"], ["country", "Spain"]], "sup": 0.011302521331681683, "conf": 1.0, "lift": 33.749935081796934, "cosine": 0.6176239642410922}
+{"X_set": [["variety", "Nebbiolo"]], "Y_set": [["province", "Piedmont"]], "sup": 0.02049688007324711, "conf": 0.9500713266761769, "lift": 33.113896594108176, "cosine": 0.8238516658035845}
+{"X_set": [["variety", "Nebbiolo"]], "Y_set": [["province", "Piedmont"], ["country", "Italy"]], "sup": 0.02049688007324711, "conf": 0.9500713266761769, "lift": 33.113896594108176, "cosine": 0.8238516658035845}
+{"X_set": [["province", "Piedmont"]], "Y_set": [["variety", "Nebbiolo"]], "sup": 0.02049688007324711, "conf": 0.7144006436041834, "lift": 33.113896594108176, "cosine": 0.8238516658035845}
+{"X_set": [["region_1", "Willamette Valley"]], "Y_set": [["province", "Oregon"], ["variety", "Pinot Noir"]], "sup": 0.011202499019011934, "conf": 0.632768361581921, "lift": 29.519575277517532, "cosine": 0.5750591387744733}
+{"X_set": [["region_1", "Willamette Valley"], ["country", "US"]], "Y_set": [["province", "Oregon"], ["variety", "Pinot Noir"]], "sup": 0.011202499019011934, "conf": 0.632768361581921, "lift": 29.519575277517532, "cosine": 0.5750591387744733}
+{"X_set": [["region_1", "Willamette Valley"]], "Y_set": [["province", "Oregon"], ["country", "US"], ["variety", "Pinot Noir"]], "sup": 0.011202499019011934, "conf": 0.632768361581921, "lift": 29.519575277517532, "cosine": 0.5750591387744733}
+{"X_set": [["province", "Oregon"], ["variety", "Pinot Noir"]], "Y_set": [["region_1", "Willamette Valley"], ["country", "US"]], "sup": 0.011202499019011934, "conf": 0.5226130653266331, "lift": 29.51957527751753, "cosine": 0.5750591387744733}
+{"X_set": [["province", "Burgundy"]], "Y_set": [["variety", "Chardonnay"], ["country", "France"]], "sup": 0.017788583607112357, "conf": 0.5809045226130654, "lift": 26.887728528683304, "cosine": 0.6915884664580686}
+{"X_set": [["region_1", "Willamette Valley"]], "Y_set": [["province", "Oregon"]], "sup": 0.017703949342545645, "conf": 1.0, "lift": 24.18965196352131, "cosine": 0.6544099426017236}
+{"X_set": [["region_1", "Willamette Valley"]], "Y_set": [["province", "Oregon"], ["country", "US"]], "sup": 0.017703949342545645, "conf": 1.0, "lift": 24.18965196352131, "cosine": 0.6544099426017236}
+{"X_set": [["region_1", "Willamette Valley"], ["variety", "Pinot Noir"]], "Y_set": [["province", "Oregon"], ["country", "US"]], "sup": 0.011202499019011934, "conf": 1.0, "lift": 24.18965196352131, "cosine": 0.5205617661638123}
+{"X_set": [["variety", "Portuguese Red"]], "Y_set": [["country", "Portugal"]], "sup": 0.01897346331104631, "conf": 1.0, "lift": 22.837989808469516, "cosine": 0.6582672418775265}
+{"X_set": [["region_1", "Brunello di Montalcino"]], "Y_set": [["province", "Tuscany"]], "sup": 0.011310215355733202, "conf": 1.0, "lift": 22.040189927081567, "cosine": 0.4992787743901739}
+{"X_set": [["region_1", "Brunello di Montalcino"]], "Y_set": [["province", "Tuscany"], ["country", "Italy"]], "sup": 0.011310215355733202, "conf": 1.0, "lift": 22.040189927081567, "cosine": 0.4992787743901739}
+{"X_set": [["province", "Bordeaux"]], "Y_set": [["country", "France"], ["variety", "Bordeaux-style Red Blend"]], "sup": 0.03552330904586408, "conf": 0.7771418953038209, "lift": 21.376912015774163, "cosine": 0.8714233483115946}
+{"X_set": [["country", "Germany"]], "Y_set": [["variety", "Riesling"]], "sup": 0.013772303052219341, "conf": 0.8267898383371824, "lift": 20.70894239323992, "cosine": 0.5340504007400918}
+{"X_set": [["variety", "Malbec"]], "Y_set": [["province", "Mendoza Province"]], "sup": 0.010517730878426727, "conf": 0.5154600301659126, "lift": 20.525384675457666, "cosine": 0.4646293923038531}
+{"X_set": [["variety", "Malbec"]], "Y_set": [["province", "Mendoza Province"], ["country", "Argentina"]], "sup": 0.010517730878426727, "conf": 0.5154600301659126, "lift": 20.525384675457666, "cosine": 0.4646293923038531}
+{"X_set": [["region_1", "Rioja"]], "Y_set": [["country", "Spain"]], "sup": 0.011302521331681683, "conf": 1.0, "lift": 19.559217456734387, "cosine": 0.4701791919425414}
+{"X_set": [["province", "Northern Spain"]], "Y_set": [["country", "Spain"]], "sup": 0.02962968662240038, "conf": 1.0, "lift": 19.559217456734387, "cosine": 0.7612709660971071}
+{"X_set": [["country", "Spain"]], "Y_set": [["province", "Northern Spain"]], "sup": 0.02962968662240038, "conf": 0.5795334838224229, "lift": 19.559217456734387, "cosine": 0.7612709660971071}
+{"X_set": [["variety", "Malbec"]], "Y_set": [["country", "Argentina"]], "sup": 0.011617976317793969, "conf": 0.5693815987933635, "lift": 19.474498888624275, "cosine": 0.4756619249939412}
+{"X_set": [["variety", "Sangiovese"]], "Y_set": [["province", "Tuscany"]], "sup": 0.016557539758869286, "conf": 0.7949759881787957, "lift": 17.521421766930004, "cosine": 0.5386201235916287}
+{"X_set": [["variety", "Sangiovese"]], "Y_set": [["province", "Tuscany"], ["country", "Italy"]], "sup": 0.016557539758869286, "conf": 0.7949759881787957, "lift": 17.521421766930004, "cosine": 0.5386201235916287}
+{"X_set": [["variety", "Tempranillo"]], "Y_set": [["country", "Spain"]], "sup": 0.010994760369620915, "conf": 0.7895027624309391, "lift": 15.442056213079246, "cosine": 0.41204575920281244}
+{"X_set": [["region_1", "Columbia Valley (WA)"]], "Y_set": [["province", "Washington"]], "sup": 0.03173015518846512, "conf": 1.0, "lift": 15.04468109734923, "cosine": 0.6909197247002424}
+{"X_set": [["region_1", "Columbia Valley (WA)"]], "Y_set": [["province", "Washington"], ["country", "US"]], "sup": 0.03173015518846512, "conf": 1.0, "lift": 15.04468109734923, "cosine": 0.6909197247002424}
+{"X_set": [["province", "Bordeaux"]], "Y_set": [["variety", "Bordeaux-style Red Blend"]], "sup": 0.03552330904586408, "conf": 0.7771418953038209, "lift": 14.606783698414015, "cosine": 0.7203341526575361}
+{"X_set": [["variety", "Bordeaux-style Red Blend"]], "Y_set": [["province", "Bordeaux"]], "sup": 0.03552330904586408, "conf": 0.6676789587852495, "lift": 14.606783698414015, "cosine": 0.7203341526575361}
+{"X_set": [["variety", "Bordeaux-style Red Blend"]], "Y_set": [["province", "Bordeaux"], ["country", "France"]], "sup": 0.03552330904586408, "conf": 0.6676789587852495, "lift": 14.606783698414015, "cosine": 0.7203341526575361}
+{"X_set": [["region_1", "Willamette Valley"]], "Y_set": [["country", "US"], ["variety", "Pinot Noir"]], "sup": 0.011202499019011934, "conf": 0.632768361581921, "lift": 8.319831737295281, "cosine": 0.3052915113058251}
+{"X_set": [["province", "Oregon"], ["region_1", "Willamette Valley"]], "Y_set": [["country", "US"], ["variety", "Pinot Noir"]], "sup": 0.011202499019011934, "conf": 0.632768361581921, "lift": 8.319831737295281, "cosine": 0.3052915113058251}
+{"X_set": [["province", "Oregon"]], "Y_set": [["country", "US"], ["variety", "Pinot Noir"]], "sup": 0.02143555100753245, "conf": 0.5185185185185186, "lift": 6.817639895839189, "cosine": 0.3822824449778581}
+{"X_set": [["province", "Veneto"]], "Y_set": [["country", "Italy"]], "sup": 0.020896969323926106, "conf": 1.0, "lift": 6.651535312180144, "cosine": 0.3728229195954022}
+{"X_set": [["province", "Northeastern Italy"]], "Y_set": [["country", "Italy"]], "sup": 0.016449823422148017, "conf": 1.0, "lift": 6.651535312180144, "cosine": 0.3307817730340436}
+{"X_set": [["region_1", "Brunello di Montalcino"]], "Y_set": [["country", "Italy"]], "sup": 0.011310215355733202, "conf": 1.0, "lift": 6.651535312180144, "cosine": 0.27428141903348374}
+{"X_set": [["province", "Piedmont"]], "Y_set": [["country", "Italy"]], "sup": 0.02869101568811504, "conf": 1.0, "lift": 6.651535312180144, "cosine": 0.4368515811941302}
+{"X_set": [["region_1", "Barolo"]], "Y_set": [["country", "Italy"]], "sup": 0.012302744458379178, "conf": 1.0, "lift": 6.651535312180144, "cosine": 0.2860631734453732}
+{"X_set": [["province", "Tuscany"]], "Y_set": [["country", "Italy"]], "sup": 0.04537165983180864, "conf": 1.0, "lift": 6.651535312180144, "cosine": 0.5493552562263335}
+{"X_set": [["province", "Southern Italy"]], "Y_set": [["country", "Italy"]], "sup": 0.010379238445499381, "conf": 1.0, "lift": 6.651535312180144, "cosine": 0.26275058712356264}
+{"X_set": [["province", "Sicily & Sardinia"]], "Y_set": [["country", "Italy"]], "sup": 0.013826161220579976, "conf": 1.0, "lift": 6.651535312180144, "cosine": 0.3032576455599816}
+{"X_set": [["variety", "Nebbiolo"]], "Y_set": [["country", "Italy"]], "sup": 0.02105084980495649, "conf": 0.9757489300998573, "lift": 6.490228464381196, "cosine": 0.3696279543047874}
+{"X_set": [["province", "Burgundy"]], "Y_set": [["variety", "Chardonnay"]], "sup": 0.017788583607112357, "conf": 0.5809045226130654, "lift": 6.423954880332062, "cosine": 0.3380429831798086}
+{"X_set": [["region_1", "Willamette Valley"]], "Y_set": [["variety", "Pinot Noir"]], "sup": 0.011202499019011934, "conf": 0.632768361581921, "lift": 6.196619704879735, "cosine": 0.2634722493263859}
+{"X_set": [["province", "Loire Valley"]], "Y_set": [["country", "France"]], "sup": 0.014280108639619607, "conf": 1.0, "lift": 5.882904087267461, "cosine": 0.28984221480426475}
+{"X_set": [["province", "Provence"]], "Y_set": [["country", "France"]], "sup": 0.010356156373344824, "conf": 1.0, "lift": 5.882904087267461, "cosine": 0.24682843162231374}
+{"X_set": [["province", "Southwest France"]], "Y_set": [["country", "France"]], "sup": 0.011564118149433335, "conf": 1.0, "lift": 5.882904087267461, "cosine": 0.26082675845653797}
+{"X_set": [["province", "Burgundy"]], "Y_set": [["country", "France"]], "sup": 0.030622215725046358, "conf": 1.0, "lift": 5.882904087267461, "cosine": 0.4244379319170956}
+{"X_set": [["province", "Champagne"]], "Y_set": [["country", "France"]], "sup": 0.012410460795100445, "conf": 1.0, "lift": 5.882904087267461, "cosine": 0.2702027952045815}
+{"X_set": [["region_1", "Champagne"]], "Y_set": [["country", "France"]], "sup": 0.012410460795100445, "conf": 1.0, "lift": 5.882904087267461, "cosine": 0.2702027952045815}
+{"X_set": [["province", "Bordeaux"]], "Y_set": [["country", "France"]], "sup": 0.04571019689007548, "conf": 1.0, "lift": 5.882904087267461, "cosine": 0.5185640790822532}
+{"X_set": [["province", "Alsace"]], "Y_set": [["country", "France"]], "sup": 0.01877341868570681, "conf": 1.0, "lift": 5.882904087267461, "cosine": 0.3323284843616748}
+{"X_set": [["region_1", "Alsace"]], "Y_set": [["country", "France"]], "sup": 0.016642174023436, "conf": 1.0, "lift": 5.882904087267461, "cosine": 0.3128966500036202}
+{"X_set": [["variety", "Sangiovese"]], "Y_set": [["country", "Italy"]], "sup": 0.017426964476690954, "conf": 0.8367196158108607, "lift": 5.565470070959743, "cosine": 0.3114309702369084}
+{"X_set": [["province", "Oregon"]], "Y_set": [["variety", "Pinot Noir"]], "sup": 0.02143555100753245, "conf": 0.5185185185185186, "lift": 5.077785591498672, "cosine": 0.3299168562712174}
+{"X_set": [["province", "California"], ["variety", "Pinot Noir"]], "Y_set": [["price", "(36, 60]"], ["country", "US"]], "sup": 0.027898531210808566, "conf": 0.5258120649651972, "lift": 4.602041743810885, "cosine": 0.35831578980440126}
+{"X_set": [["variety", "Bordeaux-style Red Blend"]], "Y_set": [["country", "France"]], "sup": 0.03635426364342815, "conf": 0.6832971800433839, "lift": 4.019771773295553, "cosine": 0.3822771806331071}
+{"X_set": [["region_1", "Russian River Valley"]], "Y_set": [["province", "California"]], "sup": 0.023782228343245802, "conf": 1.0, "lift": 3.58570364443954, "cosine": 0.2920205863347134}
+{"X_set": [["region_1", "California"]], "Y_set": [["province", "California"]], "sup": 0.020227589231443938, "conf": 1.0, "lift": 3.58570364443954, "cosine": 0.26931420390579947}
+{"X_set": [["region_1", "Sonoma Coast"]], "Y_set": [["province", "California"]], "sup": 0.01134099145193928, "conf": 1.0, "lift": 3.58570364443954, "cosine": 0.20165672411495816}
+{"X_set": [["region_1", "Paso Robles"]], "Y_set": [["province", "California"]], "sup": 0.018080956521070085, "conf": 1.0, "lift": 3.58570364443954, "cosine": 0.25462315623790754}
+{"X_set": [["region_1", "Napa Valley"]], "Y_set": [["province", "California"]], "sup": 0.03446922775080595, "conf": 1.0, "lift": 3.58570364443954, "cosine": 0.35156284725078873}
+{"X_set": [["region_1", "Russian River Valley"]], "Y_set": [["province", "California"], ["country", "US"]], "sup": 0.023782228343245802, "conf": 1.0, "lift": 3.58570364443954, "cosine": 0.2920205863347134}
+{"X_set": [["region_1", "California"]], "Y_set": [["province", "California"], ["country", "US"]], "sup": 0.020227589231443938, "conf": 1.0, "lift": 3.58570364443954, "cosine": 0.26931420390579947}
+{"X_set": [["region_1", "Sonoma Coast"]], "Y_set": [["province", "California"], ["country", "US"]], "sup": 0.01134099145193928, "conf": 1.0, "lift": 3.58570364443954, "cosine": 0.20165672411495816}
+{"X_set": [["region_1", "Paso Robles"]], "Y_set": [["province", "California"], ["country", "US"]], "sup": 0.018080956521070085, "conf": 1.0, "lift": 3.58570364443954, "cosine": 0.25462315623790754}
+{"X_set": [["region_1", "Napa Valley"]], "Y_set": [["province", "California"], ["country", "US"]], "sup": 0.03446922775080595, "conf": 1.0, "lift": 3.58570364443954, "cosine": 0.35156284725078873}
+{"X_set": [["region_1", "Russian River Valley"], ["variety", "Pinot Noir"]], "Y_set": [["province", "California"], ["country", "US"]], "sup": 0.011094782682290664, "conf": 1.0, "lift": 3.58570364443954, "cosine": 0.1994557662695023}
+{"X_set": [["region_1", "Russian River Valley"], ["price", "(36, 60]"]], "Y_set": [["province", "California"], ["country", "US"]], "sup": 0.011071700610136107, "conf": 1.0, "lift": 3.58570364443954, "cosine": 0.19924817998643932}
+{"X_set": [["region_1", "Napa Valley"], ["price", "(36, 60]"]], "Y_set": [["province", "California"], ["country", "US"]], "sup": 0.010917820129105724, "conf": 1.0, "lift": 3.58570364443954, "cosine": 0.1978587057126114}
+{"X_set": [["region_1", "Napa Valley"], ["variety", "Cabernet Sauvignon"]], "Y_set": [["province", "California"], ["country", "US"]], "sup": 0.013626116595240477, "conf": 1.0, "lift": 3.58570364443954, "cosine": 0.22104120868089705}
+{"X_set": [["variety", "Zinfandel"]], "Y_set": [["province", "California"]], "sup": 0.02030452947195913, "conf": 0.9723655121591747, "lift": 3.4866145606764727, "cosine": 0.2660715469655056}
+{"X_set": [["variety", "Zinfandel"]], "Y_set": [["province", "California"], ["country", "US"]], "sup": 0.02030452947195913, "conf": 0.9723655121591747, "lift": 3.4866145606764727, "cosine": 0.2660715469655056}
+{"X_set": [["variety", "Rosé"]], "Y_set": [["country", "France"]], "sup": 0.014795608251071393, "conf": 0.5395622895622896, "lift": 3.1741931986013823, "cosine": 0.21671206491499567}
+{"X_set": [["price", "(60, 100]"], ["variety", "Cabernet Sauvignon"]], "Y_set": [["province", "California"], ["country", "US"]], "sup": 0.011094782682290664, "conf": 0.8437682855471035, "lift": 3.0255030165487513, "cosine": 0.1832138053565376}
+{"X_set": [["price", "(36, 60]"], ["variety", "Cabernet Sauvignon"]], "Y_set": [["province", "California"], ["country", "US"]], "sup": 0.011810326919081949, "conf": 0.6703056768558953, "lift": 2.403517508390696, "cosine": 0.16848242498798327}
+{"X_set": [["region_1", "Russian River Valley"]], "Y_set": [["country", "US"]], "sup": 0.023782228343245802, "conf": 1.0, "lift": 2.3846139732863643, "cosine": 0.23814162597746527}
+{"X_set": [["province", "New York"]], "Y_set": [["country", "US"]], "sup": 0.02068153665048357, "conf": 1.0, "lift": 2.3846139732863643, "cosine": 0.22207539549841446}
+{"X_set": [["region_1", "Finger Lakes"]], "Y_set": [["country", "US"]], "sup": 0.012041147640627525, "conf": 1.0, "lift": 2.3846139732863643, "cosine": 0.16945055006769538}
+{"X_set": [["region_1", "California"]], "Y_set": [["country", "US"]], "sup": 0.020227589231443938, "conf": 1.0, "lift": 2.3846139732863643, "cosine": 0.21962466147315515}
+{"X_set": [["province", "Washington"]], "Y_set": [["country", "US"]], "sup": 0.06646867378107424, "conf": 1.0, "lift": 2.3846139732863643, "cosine": 0.3981232576529066}
+{"X_set": [["region_1", "Columbia Valley (WA)"]], "Y_set": [["country", "US"]], "sup": 0.03173015518846512, "conf": 1.0, "lift": 2.3846139732863643, "cosine": 0.2750712115743099}
+{"X_set": [["region_1", "Sonoma Coast"]], "Y_set": [["country", "US"]], "sup": 0.01134099145193928, "conf": 1.0, "lift": 2.3846139732863643, "cosine": 0.16445025596579538}
+{"X_set": [["region_1", "Paso Robles"]], "Y_set": [["country", "US"]], "sup": 0.018080956521070085, "conf": 1.0, "lift": 2.3846139732863643, "cosine": 0.20764417056716747}
+{"X_set": [["province", "California"]], "Y_set": [["country", "US"]], "sup": 0.2788852897954159, "conf": 1.0, "lift": 2.3846139732863643, "cosine": 0.8154960202172454}
+{"X_set": [["region_1", "Napa Valley"]], "Y_set": [["country", "US"]], "sup": 0.03446922775080595, "conf": 1.0, "lift": 2.3846139732863643, "cosine": 0.28669810278926156}
+{"X_set": [["province", "Oregon"]], "Y_set": [["country", "US"]], "sup": 0.04133999122881258, "conf": 1.0, "lift": 2.3846139732863643, "cosine": 0.3139743950384525}
+{"X_set": [["region_1", "Willamette Valley"]], "Y_set": [["country", "US"]], "sup": 0.017703949342545645, "conf": 1.0, "lift": 2.3846139732863643, "cosine": 0.20546796583552457}
+{"X_set": [["country", "US"]], "Y_set": [["province", "California"]], "sup": 0.2788852897954159, "conf": 0.6650337589901658, "lift": 2.3846139732863643, "cosine": 0.8154960202172454}
+{"X_set": [["variety", "Zinfandel"]], "Y_set": [["country", "US"]], "sup": 0.02085849920366851, "conf": 0.998894620486367, "lift": 2.3819780698523707, "cosine": 0.2229001742331565}
+{"X_set": [["price", "(36, 60]"], ["variety", "Pinot Noir"]], "Y_set": [["province", "California"], ["country", "US"]], "sup": 0.027898531210808566, "conf": 0.6553406831736851, "lift": 2.3498574760053805, "cosine": 0.2560421296101248}
+{"X_set": [["variety", "Chardonnay"], ["price", "(36, 60]"]], "Y_set": [["province", "California"], ["country", "US"]], "sup": 0.011364073524093837, "conf": 0.621371476651241, "lift": 2.2280539683791334, "cosine": 0.1591218687431414}
+{"X_set": [["variety", "Cabernet Sauvignon"]], "Y_set": [["province", "California"]], "sup": 0.04380207892529872, "conf": 0.6010346283783784, "lift": 2.1551320574107162, "cosine": 0.30724463294441057}
+{"X_set": [["variety", "Cabernet Sauvignon"]], "Y_set": [["province", "California"], ["country", "US"]], "sup": 0.04380207892529872, "conf": 0.6010346283783784, "lift": 2.1551320574107162, "cosine": 0.30724463294441057}
+{"X_set": [["variety", "Syrah"]], "Y_set": [["country", "US"]], "sup": 0.024959414023128235, "conf": 0.7831965234186383, "lift": 1.8676213735733862, "cosine": 0.21590445827138816}
+{"X_set": [["variety", "Pinot Noir"]], "Y_set": [["province", "California"]], "sup": 0.0530579898592763, "conf": 0.5195901145268234, "lift": 1.8630961672735886, "cosine": 0.31440759779314914}
+{"X_set": [["variety", "Pinot Noir"]], "Y_set": [["province", "California"], ["country", "US"]], "sup": 0.0530579898592763, "conf": 0.5195901145268234, "lift": 1.8630961672735886, "cosine": 0.31440759779314914}
+{"X_set": [["variety", "Cabernet Sauvignon"]], "Y_set": [["country", "US"]], "sup": 0.05628178593686284, "conf": 0.7722761824324325, "lift": 1.841580575864628, "cosine": 0.32194323064213914}
+{"X_set": [["variety", "Merlot"]], "Y_set": [["country", "US"]], "sup": 0.017780889583060837, "conf": 0.745003223726628, "lift": 1.7765450974419046, "cosine": 0.1777316860240249}
+{"X_set": [["variety", "Pinot Noir"]], "Y_set": [["country", "US"]], "sup": 0.07605542774926714, "conf": 0.7448010849909583, "lift": 1.7760630745882844, "cosine": 0.3675312732917983}
+{"X_set": [["price", "(32, 36]"]], "Y_set": [["country", "US"]], "sup": 0.031753237260619675, "conf": 0.5955266955266956, "lift": 1.4201012796180126, "cosine": 0.21235068369520346}
+{"X_set": [["price", "(36, 60]"]], "Y_set": [["country", "US"]], "sup": 0.1142562571650599, "conf": 0.5913272010512484, "lift": 1.4100871064111222, "cosine": 0.4013866901819795}
+{"X_set": [["variety", "Chardonnay"]], "Y_set": [["country", "US"]], "sup": 0.052327057574381976, "conf": 0.5786607674636263, "lift": 1.3798825518863749, "cosine": 0.2687102412235966}
+{"X_set": [["price", "(28, 32]"]], "Y_set": [["country", "US"]], "sup": 0.03597725646490371, "conf": 0.5451789670047802, "lift": 1.3000413826614248, "cosine": 0.21626817204341028}
+{"X_set": [["price", "(24, 28]"]], "Y_set": [["country", "US"]], "sup": 0.04758753875864616, "conf": 0.5310836338657049, "lift": 1.2664294542998593, "cosine": 0.2454918751029974}

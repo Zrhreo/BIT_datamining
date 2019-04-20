@@ -1,0 +1,409 @@
+{"set": [["country", "US"]], "sup": 0.41935508690400164}
+{"set": [["province", "California"]], "sup": 0.2788852897954159}
+{"set": [["province", "California"], ["country", "US"]], "sup": 0.2788852897954159}
+{"set": [["price", "(36, 60]"]], "sup": 0.1932200260058013}
+{"set": [["country", "France"]], "sup": 0.16998407337021335}
+{"set": [["country", "Italy"]], "sup": 0.15034122996668486}
+{"set": [["price", "(16, 20]"]], "sup": 0.13612267351947743}
+{"set": [["points", "(87.0, 88.0]"]], "sup": 0.13239107185449062}
+{"set": [["points", "(86.0, 87.0]"]], "sup": 0.13028290926437436}
+{"set": [["price", "(12, 16]"]], "sup": 0.1260050318917297}
+{"set": [["points", "(89.0, 90.0]"]], "sup": 0.11856491063391064}
+{"set": [["price", "(36, 60]"], ["country", "US"]], "sup": 0.1142562571650599}
+{"set": [["variety", "Pinot Noir"]], "sup": 0.10211508721176263}
+{"set": [["points", "(85.0, 86.0]"]], "sup": 0.09694470304914173}
+{"set": [["points", "(88.0, 89.0]"]], "sup": 0.09406713805387355}
+{"set": [["variety", "Chardonnay"]], "sup": 0.09042786467750498}
+{"set": [["price", "(24, 28]"]], "sup": 0.08960460410399243}
+{"set": [["points", "(90.0, 91.0]"]], "sup": 0.08739641920120643}
+{"set": [["price", "(8, 12]"]], "sup": 0.08286463903486162}
+{"set": [["province", "California"], ["price", "(36, 60]"]], "sup": 0.08274153465003732}
+{"set": [["province", "California"], ["price", "(36, 60]"], ["country", "US"]], "sup": 0.08274153465003732}
+{"set": [["country", "US"], ["variety", "Pinot Noir"]], "sup": 0.07605542774926714}
+{"set": [["price", "(60, 100]"]], "sup": 0.0759554054365974}
+{"set": [["points", "(91.0, 92.0]"]], "sup": 0.07396265320725393}
+{"set": [["points", "(84.0, 85.0]"]], "sup": 0.07332404921097783}
+{"set": [["variety", "Cabernet Sauvignon"]], "sup": 0.07287779581598972}
+{"set": [["price", "(20, 24]"]], "sup": 0.07024643959037016}
+{"set": [["variety", "Red Blend"]], "sup": 0.06883073916489063}
+{"set": [["province", "Washington"]], "sup": 0.06646867378107424}
+{"set": [["province", "Washington"], ["country", "US"]], "sup": 0.06646867378107424}
+{"set": [["price", "(28, 32]"]], "sup": 0.06599164428988005}
+{"set": [["country", "US"], ["variety", "Cabernet Sauvignon"]], "sup": 0.05628178593686284}
+{"set": [["points", "(87.0, 88.0]"], ["country", "US"]], "sup": 0.054158235298643546}
+{"set": [["price", "(32, 36]"]], "sup": 0.05331958667702795}
+{"set": [["variety", "Bordeaux-style Red Blend"]], "sup": 0.05320417631625517}
+{"set": [["province", "California"], ["variety", "Pinot Noir"]], "sup": 0.0530579898592763}
+{"set": [["province", "California"], ["country", "US"], ["variety", "Pinot Noir"]], "sup": 0.0530579898592763}
+{"set": [["variety", "Chardonnay"], ["country", "US"]], "sup": 0.052327057574381976}
+{"set": [["country", "US"], ["points", "(89.0, 90.0]"]], "sup": 0.051611513337590696}
+{"set": [["country", "Spain"]], "sup": 0.05112678982234498}
+{"set": [["points", "(86.0, 87.0]"], ["country", "US"]], "sup": 0.05102676750967523}
+{"set": [["price", "(16, 20]"], ["country", "US"]], "sup": 0.050642066307099276}
+{"set": [["points", "(92.0, 93.0]"]], "sup": 0.04992652207030799}
+{"set": [["points", "(83.0, 84.0]"]], "sup": 0.04985727585384432}
+{"set": [["price", "(24, 28]"], ["country", "US"]], "sup": 0.04758753875864616}
+{"set": [["province", "Bordeaux"]], "sup": 0.04571019689007548}
+{"set": [["province", "Bordeaux"], ["country", "France"]], "sup": 0.04571019689007548}
+{"set": [["province", "Tuscany"]], "sup": 0.04537165983180864}
+{"set": [["province", "Tuscany"], ["country", "Italy"]], "sup": 0.04537165983180864}
+{"set": [["province", "California"], ["variety", "Cabernet Sauvignon"]], "sup": 0.04380207892529872}
+{"set": [["province", "California"], ["country", "US"], ["variety", "Cabernet Sauvignon"]], "sup": 0.04380207892529872}
+{"set": [["country", "Portugal"]], "sup": 0.04378669087719568}
+{"set": [["price", "(36, 60]"], ["variety", "Pinot Noir"]], "sup": 0.042571035077055654}
+{"set": [["province", "Oregon"]], "sup": 0.04133999122881258}
+{"set": [["province", "Oregon"], ["country", "US"]], "sup": 0.04133999122881258}
+{"set": [["points", "(90.0, 91.0]"], ["country", "US"]], "sup": 0.04079371552115472}
+{"set": [["variety", "Riesling"]], "sup": 0.039924290803333054}
+{"set": [["variety", "Chardonnay"], ["province", "California"]], "sup": 0.03987812665902394}
+{"set": [["variety", "Chardonnay"], ["province", "California"], ["country", "US"]], "sup": 0.03987812665902394}
+{"set": [["price", "(12, 16]"], ["country", "US"]], "sup": 0.038439344161389846}
+{"set": [["variety", "Sauvignon Blanc"]], "sup": 0.038216217463895794}
+{"set": [["country", "US"], ["points", "(85.0, 86.0]"]], "sup": 0.037900762477783505}
+{"set": [["price", "(36, 60]"], ["variety", "Pinot Noir"], ["country", "US"]], "sup": 0.03787768040562895}
+{"set": [["country", "France"], ["variety", "Bordeaux-style Red Blend"]], "sup": 0.03635426364342815}
+{"set": [["price", "(28, 32]"], ["country", "US"]], "sup": 0.03597725646490371}
+{"set": [["price", "(60, 100]"], ["country", "US"]], "sup": 0.03583876403197636}
+{"set": [["province", "Bordeaux"], ["variety", "Bordeaux-style Red Blend"]], "sup": 0.03552330904586408}
+{"set": [["province", "Bordeaux"], ["variety", "Bordeaux-style Red Blend"], ["country", "France"]], "sup": 0.03552330904586408}
+{"set": [["province", "California"], ["points", "(89.0, 90.0]"]], "sup": 0.0348923990736395}
+{"set": [["province", "California"], ["country", "US"], ["points", "(89.0, 90.0]"]], "sup": 0.0348923990736395}
+{"set": [["points", "(91.0, 92.0]"], ["country", "US"]], "sup": 0.03473851859260912}
+{"set": [["region_1", "Napa Valley"]], "sup": 0.03446922775080595}
+{"set": [["province", "California"], ["region_1", "Napa Valley"]], "sup": 0.03446922775080595}
+{"set": [["region_1", "Napa Valley"], ["country", "US"]], "sup": 0.03446922775080595}
+{"set": [["province", "California"], ["region_1", "Napa Valley"], ["country", "US"]], "sup": 0.03446922775080595}
+{"set": [["country", "Chile"]], "sup": 0.034407675558393795}
+{"set": [["country", "US"], ["points", "(88.0, 89.0]"]], "sup": 0.03397681021150872}
+{"set": [["points", "(87.0, 88.0]"], ["province", "California"]], "sup": 0.03285348269998692}
+{"set": [["points", "(87.0, 88.0]"], ["country", "US"], ["province", "California"]], "sup": 0.03285348269998692}
+{"set": [["price", "(20, 24]"], ["country", "US"]], "sup": 0.032184102607504754}
+{"set": [["province", "California"], ["points", "(86.0, 87.0]"]], "sup": 0.03189172969354702}
+{"set": [["province", "California"], ["points", "(86.0, 87.0]"], ["country", "US"]], "sup": 0.03189172969354702}
+{"set": [["variety", "Syrah"]], "sup": 0.031868647621392465}
+{"set": [["price", "(32, 36]"], ["country", "US"]], "sup": 0.031753237260619675}
+{"set": [["region_1", "Columbia Valley (WA)"]], "sup": 0.03173015518846512}
+{"set": [["province", "Washington"], ["region_1", "Columbia Valley (WA)"]], "sup": 0.03173015518846512}
+{"set": [["country", "US"], ["region_1", "Columbia Valley (WA)"]], "sup": 0.03173015518846512}
+{"set": [["province", "Washington"], ["country", "US"], ["region_1", "Columbia Valley (WA)"]], "sup": 0.03173015518846512}
+{"set": [["province", "Burgundy"]], "sup": 0.030622215725046358}
+{"set": [["province", "Burgundy"], ["country", "France"]], "sup": 0.030622215725046358}
+{"set": [["price", "(36, 60]"], ["points", "(89.0, 90.0]"]], "sup": 0.030168268306006725}
+{"set": [["province", "Northern Spain"]], "sup": 0.02962968662240038}
+{"set": [["province", "Northern Spain"], ["country", "Spain"]], "sup": 0.02962968662240038}
+{"set": [["price", "(24, 28]"], ["province", "California"]], "sup": 0.02955274638188519}
+{"set": [["price", "(24, 28]"], ["province", "California"], ["country", "US"]], "sup": 0.02955274638188519}
+{"set": [["price", "(16, 20]"], ["province", "California"]], "sup": 0.029498888213524557}
+{"set": [["price", "(16, 20]"], ["province", "California"], ["country", "US"]], "sup": 0.029498888213524557}
+{"set": [["country", "Argentina"]], "sup": 0.029237291395772903}
+{"set": [["points", "(90.0, 91.0]"], ["price", "(36, 60]"]], "sup": 0.029037246770433404}
+{"set": [["points", "(93.0, 94.0]"]], "sup": 0.028914142385609097}
+{"set": [["price", "(36, 60]"], ["country", "Italy"]], "sup": 0.02889106031345454}
+{"set": [["province", "Piedmont"]], "sup": 0.02869101568811504}
+{"set": [["province", "Piedmont"], ["country", "Italy"]], "sup": 0.02869101568811504}
+{"set": [["country", "US"], ["points", "(84.0, 85.0]"]], "sup": 0.028344784605796678}
+{"set": [["province", "California"], ["price", "(60, 100]"]], "sup": 0.027929307307014643}
+{"set": [["province", "California"], ["price", "(60, 100]"], ["country", "US"]], "sup": 0.027929307307014643}
+{"set": [["province", "California"], ["price", "(36, 60]"], ["variety", "Pinot Noir"]], "sup": 0.027898531210808566}
+{"set": [["province", "California"], ["country", "US"], ["price", "(36, 60]"], ["variety", "Pinot Noir"]], "sup": 0.027898531210808566}
+{"set": [["country", "Italy"], ["variety", "Red Blend"]], "sup": 0.027883143162705525}
+{"set": [["points", "(91.0, 92.0]"], ["price", "(36, 60]"]], "sup": 0.027883143162705525}
+{"set": [["variety", "Ros\u00e9"]], "sup": 0.027421501719614376}
+{"set": [["points", "(86.0, 87.0]"], ["country", "Italy"]], "sup": 0.026482830785329033}
+{"set": [["points", "(90.0, 91.0]"], ["province", "California"]], "sup": 0.02614429372706219}
+{"set": [["points", "(90.0, 91.0]"], ["country", "US"], ["province", "California"]], "sup": 0.02614429372706219}
+{"set": [["price", "(100, 3300]"]], "sup": 0.025898084957413577}
+{"set": [["country", "Austria"]], "sup": 0.025736510452331673}
+{"set": [["price", "(16, 20]"], ["points", "(86.0, 87.0]"]], "sup": 0.02549799570673458}
+{"set": [["province", "Mendoza Province"]], "sup": 0.02511329450415862}
+{"set": [["province", "Mendoza Province"], ["country", "Argentina"]], "sup": 0.02511329450415862}
+{"set": [["points", "(91.0, 92.0]"], ["province", "California"]], "sup": 0.024990190119334312}
+{"set": [["points", "(91.0, 92.0]"], ["country", "US"], ["province", "California"]], "sup": 0.024990190119334312}
+{"set": [["variety", "Syrah"], ["country", "US"]], "sup": 0.024959414023128235}
+{"set": [["price", "(12, 16]"], ["points", "(86.0, 87.0]"]], "sup": 0.02492094390287064}
+{"set": [["price", "(16, 20]"], ["points", "(87.0, 88.0]"]], "sup": 0.0247439813496857}
+{"set": [["province", "California"], ["points", "(85.0, 86.0]"]], "sup": 0.024690123181325064}
+{"set": [["province", "California"], ["country", "US"], ["points", "(85.0, 86.0]"]], "sup": 0.024690123181325064}
+{"set": [["points", "(87.0, 88.0]"], ["country", "Italy"]], "sup": 0.023882250655915552}
+{"set": [["variety", "Merlot"]], "sup": 0.02386686260781251}
+{"set": [["region_1", "Russian River Valley"]], "sup": 0.023782228343245802}
+{"set": [["region_1", "Russian River Valley"], ["province", "California"]], "sup": 0.023782228343245802}
+{"set": [["region_1", "Russian River Valley"], ["country", "US"]], "sup": 0.023782228343245802}
+{"set": [["region_1", "Russian River Valley"], ["province", "California"], ["country", "US"]], "sup": 0.023782228343245802}
+{"set": [["points", "(82.0, 83.0]"]], "sup": 0.023274422755845535}
+{"set": [["country", "US"], ["points", "(92.0, 93.0]"]], "sup": 0.023182094467227306}
+{"set": [["country", "US"], ["variety", "Red Blend"]], "sup": 0.022866639481115017}
+{"set": [["price", "(12, 16]"], ["country", "France"]], "sup": 0.02265120680767248}
+{"set": [["price", "(28, 32]"], ["province", "California"]], "sup": 0.022489632302590577}
+{"set": [["price", "(28, 32]"], ["province", "California"], ["country", "US"]], "sup": 0.022489632302590577}
+{"set": [["price", "(16, 20]"], ["country", "France"]], "sup": 0.022458856206384503}
+{"set": [["points", "(87.0, 88.0]"], ["country", "France"]], "sup": 0.022297281701302598}
+{"set": [["country", "France"], ["price", "(36, 60]"]], "sup": 0.02199721476329335}
+{"set": [["price", "(12, 16]"], ["points", "(85.0, 86.0]"]], "sup": 0.02198952073924183}
+{"set": [["variety", "Chardonnay"], ["country", "France"]], "sup": 0.021604819536665872}
+{"set": [["variety", "Nebbiolo"]], "sup": 0.021574043440459795}
+{"set": [["price", "(12, 16]"], ["province", "California"]], "sup": 0.021458633079687008}
+{"set": [["price", "(12, 16]"], ["province", "California"], ["country", "US"]], "sup": 0.021458633079687008}
+{"set": [["province", "Oregon"], ["variety", "Pinot Noir"]], "sup": 0.02143555100753245}
+{"set": [["province", "Oregon"], ["country", "US"], ["variety", "Pinot Noir"]], "sup": 0.02143555100753245}
+{"set": [["country", "Italy"], ["variety", "Nebbiolo"]], "sup": 0.02105084980495649}
+{"set": [["price", "(32, 36]"], ["province", "California"]], "sup": 0.020912357372029147}
+{"set": [["price", "(32, 36]"], ["province", "California"], ["country", "US"]], "sup": 0.020912357372029147}
+{"set": [["province", "Veneto"]], "sup": 0.020896969323926106}
+{"set": [["points", "(87.0, 88.0]"], ["price", "(36, 60]"]], "sup": 0.020896969323926106}
+{"set": [["country", "Italy"], ["province", "Veneto"]], "sup": 0.020896969323926106}
+{"set": [["variety", "Zinfandel"]], "sup": 0.02088158127582307}
+{"set": [["variety", "Zinfandel"], ["country", "US"]], "sup": 0.02085849920366851}
+{"set": [["variety", "Sangiovese"]], "sup": 0.020827723107462434}
+{"set": [["province", "New York"]], "sup": 0.02068153665048357}
+{"set": [["province", "New York"], ["country", "US"]], "sup": 0.02068153665048357}
+{"set": [["points", "(83.0, 84.0]"], ["country", "US"]], "sup": 0.020589208361865338}
+{"set": [["province", "Piedmont"], ["variety", "Nebbiolo"]], "sup": 0.02049688007324711}
+{"set": [["province", "Piedmont"], ["country", "Italy"], ["variety", "Nebbiolo"]], "sup": 0.02049688007324711}
+{"set": [["price", "(20, 24]"], ["province", "California"]], "sup": 0.020443021904886473}
+{"set": [["price", "(20, 24]"], ["province", "California"], ["country", "US"]], "sup": 0.020443021904886473}
+{"set": [["variety", "Malbec"]], "sup": 0.02040455178462888}
+{"set": [["price", "(16, 20]"], ["country", "Italy"]], "sup": 0.02030452947195913}
+{"set": [["variety", "Zinfandel"], ["province", "California"]], "sup": 0.02030452947195913}
+{"set": [["variety", "Zinfandel"], ["country", "US"], ["province", "California"]], "sup": 0.02030452947195913}
+{"set": [["region_1", "California"]], "sup": 0.020227589231443938}
+{"set": [["province", "California"], ["region_1", "California"]], "sup": 0.020227589231443938}
+{"set": [["region_1", "California"], ["country", "US"]], "sup": 0.020227589231443938}
+{"set": [["province", "California"], ["region_1", "California"], ["country", "US"]], "sup": 0.020227589231443938}
+{"set": [["country", "France"], ["points", "(86.0, 87.0]"]], "sup": 0.019958298389640767}
+{"set": [["price", "(12, 16]"], ["points", "(87.0, 88.0]"]], "sup": 0.019604373283270884}
+{"set": [["price", "(8, 12]"], ["country", "US"]], "sup": 0.019596679259219364}
+{"set": [["country", "France"], ["points", "(89.0, 90.0]"]], "sup": 0.01952743304275569}
+{"set": [["price", "(36, 60]"], ["points", "(92.0, 93.0]"]], "sup": 0.01945818682629202}
+{"set": [["province", "California"], ["points", "(88.0, 89.0]"]], "sup": 0.01916581391233429}
+{"set": [["province", "California"], ["country", "US"], ["points", "(88.0, 89.0]"]], "sup": 0.01916581391233429}
+{"set": [["variety", "Portuguese Red"]], "sup": 0.01897346331104631}
+{"set": [["variety", "Portuguese Red"], ["country", "Portugal"]], "sup": 0.01897346331104631}
+{"set": [["price", "(36, 60]"], ["points", "(88.0, 89.0]"]], "sup": 0.01881188880596441}
+{"set": [["province", "Alsace"]], "sup": 0.01877341868570681}
+{"set": [["province", "Alsace"], ["country", "France"]], "sup": 0.01877341868570681}
+{"set": [["country", "Italy"], ["points", "(89.0, 90.0]"]], "sup": 0.01833485931477022}
+{"set": [["province", "California"], ["points", "(84.0, 85.0]"]], "sup": 0.01831177724261566}
+{"set": [["province", "California"], ["country", "US"], ["points", "(84.0, 85.0]"]], "sup": 0.01831177724261566}
+{"set": [["variety", "Chardonnay"], ["price", "(36, 60]"]], "sup": 0.018288695170461104}
+{"set": [["variety", "White Blend"]], "sup": 0.018157896761585277}
+{"set": [["region_1", "Paso Robles"]], "sup": 0.018080956521070085}
+{"set": [["region_1", "Paso Robles"], ["province", "California"]], "sup": 0.018080956521070085}
+{"set": [["region_1", "Paso Robles"], ["country", "US"]], "sup": 0.018080956521070085}
+{"set": [["region_1", "Paso Robles"], ["province", "California"], ["country", "US"]], "sup": 0.018080956521070085}
+{"set": [["province", "California"], ["points", "(92.0, 93.0]"]], "sup": 0.01803479237676097}
+{"set": [["province", "California"], ["country", "US"], ["points", "(92.0, 93.0]"]], "sup": 0.01803479237676097}
+{"set": [["country", "Australia"]], "sup": 0.01791938201598818}
+{"set": [["variety", "Chardonnay"], ["province", "Burgundy"]], "sup": 0.017788583607112357}
+{"set": [["variety", "Chardonnay"], ["country", "France"], ["province", "Burgundy"]], "sup": 0.017788583607112357}
+{"set": [["variety", "Merlot"], ["country", "US"]], "sup": 0.017780889583060837}
+{"set": [["region_1", "Willamette Valley"]], "sup": 0.017703949342545645}
+{"set": [["region_1", "Mendoza"]], "sup": 0.017703949342545645}
+{"set": [["province", "Oregon"], ["region_1", "Willamette Valley"]], "sup": 0.017703949342545645}
+{"set": [["region_1", "Willamette Valley"], ["country", "US"]], "sup": 0.017703949342545645}
+{"set": [["region_1", "Mendoza"], ["province", "Mendoza Province"]], "sup": 0.017703949342545645}
+{"set": [["region_1", "Mendoza"], ["country", "Argentina"]], "sup": 0.017703949342545645}
+{"set": [["province", "Oregon"], ["region_1", "Willamette Valley"], ["country", "US"]], "sup": 0.017703949342545645}
+{"set": [["region_1", "Mendoza"], ["province", "Mendoza Province"], ["country", "Argentina"]], "sup": 0.017703949342545645}
+{"set": [["price", "(36, 60]"], ["variety", "Cabernet Sauvignon"]], "sup": 0.017619315077978932}
+{"set": [["country", "Italy"], ["points", "(88.0, 89.0]"]], "sup": 0.017496210693154626}
+{"set": [["country", "Italy"], ["variety", "Sangiovese"]], "sup": 0.017426964476690954}
+{"set": [["price", "(12, 16]"], ["country", "Italy"]], "sup": 0.01690377084118765}
+{"set": [["points", "(90.0, 91.0]"], ["country", "US"], ["price", "(36, 60]"]], "sup": 0.016742196336105748}
+{"set": [["province", "Tuscany"], ["variety", "Red Blend"]], "sup": 0.016726808288002708}
+{"set": [["province", "Tuscany"], ["country", "Italy"], ["variety", "Red Blend"]], "sup": 0.016726808288002708}
+{"set": [["country", "Germany"]], "sup": 0.016657562071539036}
+{"set": [["region_1", "Alsace"]], "sup": 0.016642174023436}
+{"set": [["province", "Alsace"], ["region_1", "Alsace"]], "sup": 0.016642174023436}
+{"set": [["country", "France"], ["region_1", "Alsace"]], "sup": 0.016642174023436}
+{"set": [["variety", "Sauvignon Blanc"], ["country", "US"]], "sup": 0.016642174023436}
+{"set": [["province", "Alsace"], ["country", "France"], ["region_1", "Alsace"]], "sup": 0.016642174023436}
+{"set": [["variety", "Sparkling Blend"]], "sup": 0.016565233782920807}
+{"set": [["province", "Tuscany"], ["variety", "Sangiovese"]], "sup": 0.016557539758869286}
+{"set": [["province", "Tuscany"], ["country", "Italy"], ["variety", "Sangiovese"]], "sup": 0.016557539758869286}
+{"set": [["country", "US"], ["price", "(36, 60]"], ["points", "(89.0, 90.0]"]], "sup": 0.01654215171076625}
+{"set": [["price", "(12, 16]"], ["points", "(84.0, 85.0]"]], "sup": 0.016457517446199537}
+{"set": [["province", "Northeastern Italy"]], "sup": 0.016449823422148017}
+{"set": [["country", "Italy"], ["province", "Northeastern Italy"]], "sup": 0.016449823422148017}
+{"set": [["price", "(8, 12]"], ["points", "(84.0, 85.0]"]], "sup": 0.0164421293980965}
+{"set": [["points", "(91.0, 92.0]"], ["price", "(36, 60]"], ["country", "US"]], "sup": 0.0164421293980965}
+{"set": [["price", "(16, 20]"], ["points", "(85.0, 86.0]"]], "sup": 0.01641904732594194}
+{"set": [["province", "Washington"], ["price", "(36, 60]"]], "sup": 0.016380577205684345}
+{"set": [["country", "France"], ["points", "(88.0, 89.0]"]], "sup": 0.016380577205684345}
+{"set": [["price", "(36, 60]"], ["province", "Washington"], ["country", "US"]], "sup": 0.016380577205684345}
+{"set": [["price", "(16, 20]"], ["points", "(88.0, 89.0]"]], "sup": 0.01616514453224181}
+{"set": [["price", "(8, 12]"], ["points", "(85.0, 86.0]"]], "sup": 0.016103592339829654}
+{"set": [["country", "US"], ["price", "(36, 60]"], ["variety", "Cabernet Sauvignon"]], "sup": 0.015918935762593196}
+{"set": [["country", "Italy"], ["points", "(85.0, 86.0]"]], "sup": 0.015903547714490155}
+{"set": [["price", "(60, 100]"], ["country", "Italy"]], "sup": 0.015665032968893062}
+{"set": [["points", "(90.0, 91.0]"], ["country", "France"]], "sup": 0.015618868824583946}
+{"set": [["country", "France"], ["points", "(85.0, 86.0]"]], "sup": 0.015572704680274831}
+{"set": [["price", "(16, 20]"], ["points", "(89.0, 90.0]"]], "sup": 0.01539574212708989}
+{"set": [["points", "(83.0, 84.0]"], ["province", "California"]], "sup": 0.015372660054935332}
+{"set": [["points", "(83.0, 84.0]"], ["country", "US"], ["province", "California"]], "sup": 0.015372660054935332}
+{"set": [["country", "France"], ["variety", "Pinot Noir"]], "sup": 0.015126451285286717}
+{"set": [["price", "(24, 28]"], ["points", "(87.0, 88.0]"]], "sup": 0.015064899092874564}
+{"set": [["points", "(86.0, 87.0]"], ["price", "(36, 60]"]], "sup": 0.015049511044771527}
+{"set": [["country", "France"], ["variety", "Ros\u00e9"]], "sup": 0.014795608251071393}
+{"set": [["price", "(36, 60]"], ["variety", "Red Blend"]], "sup": 0.01463403374598949}
+{"set": [["variety", "Syrah"], ["province", "California"]], "sup": 0.014387824976340877}
+{"set": [["variety", "Syrah"], ["province", "California"], ["country", "US"]], "sup": 0.014387824976340877}
+{"set": [["province", "Loire Valley"]], "sup": 0.014280108639619607}
+{"set": [["country", "France"], ["province", "Loire Valley"]], "sup": 0.014280108639619607}
+{"set": [["points", "(81.0, 82.0]"]], "sup": 0.014126228158589224}
+{"set": [["price", "(60, 100]"], ["variety", "Pinot Noir"]], "sup": 0.014103146086434665}
+{"set": [["variety", "Bordeaux-style Red Blend"], ["country", "US"]], "sup": 0.014033899869970994}
+{"set": [["variety", "Tempranillo"]], "sup": 0.013926183533249726}
+{"set": [["price", "(24, 28]"], ["points", "(89.0, 90.0]"]], "sup": 0.013926183533249726}
+{"set": [["price", "(8, 12]"], ["points", "(86.0, 87.0]"]], "sup": 0.013918489509198205}
+{"set": [["variety", "Sauvignon Blanc"], ["province", "California"]], "sup": 0.013903101461095167}
+{"set": [["variety", "Sauvignon Blanc"], ["province", "California"], ["country", "US"]], "sup": 0.013903101461095167}
+{"set": [["province", "California"], ["variety", "Red Blend"]], "sup": 0.01388001938894061}
+{"set": [["province", "California"], ["country", "US"], ["variety", "Red Blend"]], "sup": 0.01388001938894061}
+{"set": [["province", "Sicily & Sardinia"]], "sup": 0.013826161220579976}
+{"set": [["country", "Italy"], ["province", "Sicily & Sardinia"]], "sup": 0.013826161220579976}
+{"set": [["country", "US"], ["points", "(93.0, 94.0]"]], "sup": 0.013803079148425417}
+{"set": [["country", "Germany"], ["variety", "Riesling"]], "sup": 0.013772303052219341}
+{"set": [["region_1", "Napa Valley"], ["variety", "Cabernet Sauvignon"]], "sup": 0.013626116595240477}
+{"set": [["region_1", "Napa Valley"], ["country", "US"], ["variety", "Cabernet Sauvignon"]], "sup": 0.013626116595240477}
+{"set": [["province", "California"], ["region_1", "Napa Valley"], ["variety", "Cabernet Sauvignon"]], "sup": 0.013626116595240477}
+{"set": [["province", "California"], ["country", "US"], ["variety", "Cabernet Sauvignon"], ["region_1", "Napa Valley"]], "sup": 0.013626116595240477}
+{"set": [["points", "(91.0, 92.0]"], ["price", "(60, 100]"]], "sup": 0.01360303452308592}
+{"set": [["country", "US"], ["variety", "Riesling"]], "sup": 0.013487624162313132}
+{"set": [["points", "(91.0, 92.0]"], ["country", "France"]], "sup": 0.013156781128097806}
+{"set": [["country", "France"], ["points", "(84.0, 85.0]"]], "sup": 0.013149087104046287}
+{"set": [["price", "(60, 100]"], ["variety", "Cabernet Sauvignon"]], "sup": 0.013149087104046287}
+{"set": [["price", "(8, 12]"], ["province", "California"]], "sup": 0.013110616983788691}
+{"set": [["price", "(8, 12]"], ["province", "California"], ["country", "US"]], "sup": 0.013110616983788691}
+{"set": [["variety", "Chardonnay"], ["price", "(36, 60]"], ["country", "US"]], "sup": 0.012949042478706789}
+{"set": [["price", "(24, 28]"], ["country", "France"]], "sup": 0.012595117372336906}
+{"set": [["price", "(20, 24]"], ["points", "(87.0, 88.0]"]], "sup": 0.012579729324233867}
+{"set": [["country", "US"], ["price", "(60, 100]"], ["variety", "Cabernet Sauvignon"]], "sup": 0.012479707011564117}
+{"set": [["province", "Champagne"]], "sup": 0.012410460795100445}
+{"set": [["region_1", "Champagne"]], "sup": 0.012410460795100445}
+{"set": [["region_1", "Champagne"], ["province", "Champagne"]], "sup": 0.012410460795100445}
+{"set": [["country", "France"], ["region_1", "Champagne"]], "sup": 0.012410460795100445}
+{"set": [["country", "France"], ["province", "Champagne"]], "sup": 0.012410460795100445}
+{"set": [["country", "France"], ["region_1", "Champagne"], ["province", "Champagne"]], "sup": 0.012410460795100445}
+{"set": [["region_1", "Barolo"]], "sup": 0.012302744458379178}
+{"set": [["region_1", "Barolo"], ["variety", "Nebbiolo"]], "sup": 0.012302744458379178}
+{"set": [["province", "Piedmont"], ["region_1", "Barolo"]], "sup": 0.012302744458379178}
+{"set": [["region_1", "Barolo"], ["country", "Italy"]], "sup": 0.012302744458379178}
+{"set": [["region_1", "Barolo"], ["province", "Piedmont"], ["country", "Italy"]], "sup": 0.012302744458379178}
+{"set": [["region_1", "Barolo"], ["country", "Italy"], ["variety", "Nebbiolo"]], "sup": 0.012302744458379178}
+{"set": [["province", "Piedmont"], ["region_1", "Barolo"], ["variety", "Nebbiolo"]], "sup": 0.012302744458379178}
+{"set": [["province", "Piedmont"], ["country", "Italy"], ["variety", "Nebbiolo"], ["region_1", "Barolo"]], "sup": 0.012302744458379178}
+{"set": [["points", "(87.0, 88.0]"], ["price", "(36, 60]"], ["country", "US"]], "sup": 0.012256580314070061}
+{"set": [["price", "(24, 28]"], ["points", "(86.0, 87.0]"]], "sup": 0.012248886290018543}
+{"set": [["price", "(8, 12]"], ["points", "(83.0, 84.0]"]], "sup": 0.01218733409760639}
+{"set": [["points", "(91.0, 92.0]"], ["price", "(36, 60]"], ["province", "California"]], "sup": 0.012133475929245754}
+{"set": [["points", "(91.0, 92.0]"], ["province", "California"], ["country", "US"], ["price", "(36, 60]"]], "sup": 0.012133475929245754}
+{"set": [["price", "(16, 20]"], ["points", "(84.0, 85.0]"]], "sup": 0.012118087881142716}
+{"set": [["province", "California"], ["price", "(36, 60]"], ["points", "(89.0, 90.0]"]], "sup": 0.012110393857091197}
+{"set": [["province", "California"], ["country", "US"], ["price", "(36, 60]"], ["points", "(89.0, 90.0]"]], "sup": 0.012110393857091197}
+{"set": [["province", "Oregon"], ["price", "(36, 60]"]], "sup": 0.012056535688730562}
+{"set": [["province", "Oregon"], ["price", "(36, 60]"], ["country", "US"]], "sup": 0.012056535688730562}
+{"set": [["region_1", "Finger Lakes"]], "sup": 0.012041147640627525}
+{"set": [["region_1", "Finger Lakes"], ["province", "New York"]], "sup": 0.012041147640627525}
+{"set": [["region_1", "Finger Lakes"], ["country", "US"]], "sup": 0.012041147640627525}
+{"set": [["province", "New York"], ["region_1", "Finger Lakes"], ["country", "US"]], "sup": 0.012041147640627525}
+{"set": [["price", "(60, 100]"], ["points", "(92.0, 93.0]"]], "sup": 0.012025759592524487}
+{"set": [["variety", "Pinot Noir"], ["points", "(89.0, 90.0]"]], "sup": 0.011994983496318409}
+{"set": [["province", "Burgundy"], ["variety", "Pinot Noir"]], "sup": 0.011925737279854737}
+{"set": [["province", "Burgundy"], ["country", "France"], ["variety", "Pinot Noir"]], "sup": 0.011925737279854737}
+{"set": [["country", "France"], ["price", "(60, 100]"]], "sup": 0.011871879111494102}
+{"set": [["points", "(94.0, 95.0]"]], "sup": 0.011810326919081949}
+{"set": [["province", "California"], ["price", "(36, 60]"], ["variety", "Cabernet Sauvignon"]], "sup": 0.011810326919081949}
+{"set": [["province", "California"], ["country", "US"], ["variety", "Cabernet Sauvignon"], ["price", "(36, 60]"]], "sup": 0.011810326919081949}
+{"set": [["points", "(91.0, 92.0]"], ["variety", "Pinot Noir"]], "sup": 0.011764162774772834}
+{"set": [["country", "US"], ["price", "(36, 60]"], ["points", "(92.0, 93.0]"]], "sup": 0.011764162774772834}
+{"set": [["price", "(16, 20]"], ["variety", "Chardonnay"]], "sup": 0.011656446438051565}
+{"set": [["variety", "Malbec"], ["country", "Argentina"]], "sup": 0.011617976317793969}
+{"set": [["province", "Southwest France"]], "sup": 0.011564118149433335}
+{"set": [["country", "France"], ["province", "Southwest France"]], "sup": 0.011564118149433335}
+{"set": [["price", "(0, 8]"]], "sup": 0.011556424125381815}
+{"set": [["price", "(8, 12]"], ["country", "France"]], "sup": 0.011402543644351433}
+{"set": [["variety", "Chardonnay"], ["province", "California"], ["price", "(36, 60]"]], "sup": 0.011364073524093837}
+{"set": [["province", "California"], ["country", "US"], ["variety", "Chardonnay"], ["price", "(36, 60]"]], "sup": 0.011364073524093837}
+{"set": [["region_1", "Sonoma Coast"]], "sup": 0.01134099145193928}
+{"set": [["province", "California"], ["region_1", "Sonoma Coast"]], "sup": 0.01134099145193928}
+{"set": [["country", "US"], ["region_1", "Sonoma Coast"]], "sup": 0.01134099145193928}
+{"set": [["points", "(90.0, 91.0]"], ["variety", "Pinot Noir"]], "sup": 0.01134099145193928}
+{"set": [["province", "California"], ["country", "US"], ["region_1", "Sonoma Coast"]], "sup": 0.01134099145193928}
+{"set": [["variety", "Rh\u00f4ne-style Red Blend"]], "sup": 0.011317909379784722}
+{"set": [["region_1", "Brunello di Montalcino"]], "sup": 0.011310215355733202}
+{"set": [["province", "Tuscany"], ["region_1", "Brunello di Montalcino"]], "sup": 0.011310215355733202}
+{"set": [["region_1", "Brunello di Montalcino"], ["country", "Italy"]], "sup": 0.011310215355733202}
+{"set": [["province", "Tuscany"], ["region_1", "Brunello di Montalcino"], ["country", "Italy"]], "sup": 0.011310215355733202}
+{"set": [["region_1", "Rioja"]], "sup": 0.011302521331681683}
+{"set": [["province", "Northern Spain"], ["region_1", "Rioja"]], "sup": 0.011302521331681683}
+{"set": [["country", "Spain"], ["region_1", "Rioja"]], "sup": 0.011302521331681683}
+{"set": [["province", "Northern Spain"], ["country", "Spain"], ["region_1", "Rioja"]], "sup": 0.011302521331681683}
+{"set": [["variety", "Chardonnay"], ["points", "(86.0, 87.0]"]], "sup": 0.011287133283578644}
+{"set": [["region_1", "Willamette Valley"], ["variety", "Pinot Noir"]], "sup": 0.011202499019011934}
+{"set": [["province", "Oregon"], ["region_1", "Willamette Valley"], ["variety", "Pinot Noir"]], "sup": 0.011202499019011934}
+{"set": [["region_1", "Willamette Valley"], ["country", "US"], ["variety", "Pinot Noir"]], "sup": 0.011202499019011934}
+{"set": [["province", "Oregon"], ["region_1", "Willamette Valley"], ["country", "US"], ["variety", "Pinot Noir"]], "sup": 0.011202499019011934}
+{"set": [["variety", "Pinot Gris"]], "sup": 0.011194804994960414}
+{"set": [["price", "(20, 24]"], ["points", "(86.0, 87.0]"]], "sup": 0.01114094682659978}
+{"set": [["price", "(24, 28]"], ["points", "(88.0, 89.0]"]], "sup": 0.011117864754445223}
+{"set": [["region_1", "Russian River Valley"], ["variety", "Pinot Noir"]], "sup": 0.011094782682290664}
+{"set": [["province", "California"], ["price", "(60, 100]"], ["variety", "Cabernet Sauvignon"]], "sup": 0.011094782682290664}
+{"set": [["region_1", "Russian River Valley"], ["country", "US"], ["variety", "Pinot Noir"]], "sup": 0.011094782682290664}
+{"set": [["region_1", "Russian River Valley"], ["province", "California"], ["variety", "Pinot Noir"]], "sup": 0.011094782682290664}
+{"set": [["province", "California"], ["country", "US"], ["variety", "Cabernet Sauvignon"], ["price", "(60, 100]"]], "sup": 0.011094782682290664}
+{"set": [["province", "California"], ["country", "US"], ["region_1", "Russian River Valley"], ["variety", "Pinot Noir"]], "sup": 0.011094782682290664}
+{"set": [["region_1", "Russian River Valley"], ["price", "(36, 60]"]], "sup": 0.011071700610136107}
+{"set": [["region_1", "Russian River Valley"], ["price", "(36, 60]"], ["country", "US"]], "sup": 0.011071700610136107}
+{"set": [["region_1", "Russian River Valley"], ["province", "California"], ["price", "(36, 60]"]], "sup": 0.011071700610136107}
+{"set": [["province", "California"], ["country", "US"], ["region_1", "Russian River Valley"], ["price", "(36, 60]"]], "sup": 0.011071700610136107}
+{"set": [["points", "(87.0, 88.0]"], ["variety", "Pinot Noir"]], "sup": 0.01103323048987851}
+{"set": [["country", "Spain"], ["variety", "Tempranillo"]], "sup": 0.010994760369620915}
+{"set": [["points", "(87.0, 88.0]"], ["province", "Washington"]], "sup": 0.010956290249363319}
+{"set": [["points", "(87.0, 88.0]"], ["province", "Washington"], ["country", "US"]], "sup": 0.010956290249363319}
+{"set": [["price", "(60, 100]"], ["variety", "Pinot Noir"], ["country", "US"]], "sup": 0.010925514153157243}
+{"set": [["country", "New Zealand"]], "sup": 0.010917820129105724}
+{"set": [["region_1", "Napa Valley"], ["price", "(36, 60]"]], "sup": 0.010917820129105724}
+{"set": [["region_1", "Napa Valley"], ["price", "(36, 60]"], ["country", "US"]], "sup": 0.010917820129105724}
+{"set": [["province", "California"], ["region_1", "Napa Valley"], ["price", "(36, 60]"]], "sup": 0.010917820129105724}
+{"set": [["province", "California"], ["country", "US"], ["region_1", "Napa Valley"], ["price", "(36, 60]"]], "sup": 0.010917820129105724}
+{"set": [["price", "(12, 16]"], ["points", "(83.0, 84.0]"]], "sup": 0.010902432081002686}
+{"set": [["country", "South Africa"]], "sup": 0.010779327696178379}
+{"set": [["variety", "Champagne Blend"]], "sup": 0.010740857575920783}
+{"set": [["points", "(90.0, 91.0]"], ["price", "(36, 60]"], ["province", "California"]], "sup": 0.010740857575920783}
+{"set": [["province", "California"], ["country", "US"], ["points", "(90.0, 91.0]"], ["price", "(36, 60]"]], "sup": 0.010740857575920783}
+{"set": [["variety", "Chardonnay"], ["points", "(87.0, 88.0]"]], "sup": 0.010717775503766225}
+{"set": [["country", "France"], ["points", "(92.0, 93.0]"]], "sup": 0.010717775503766225}
+{"set": [["variety", "Merlot"], ["province", "California"]], "sup": 0.010702387455663187}
+{"set": [["variety", "Merlot"], ["country", "US"], ["province", "California"]], "sup": 0.010702387455663187}
+{"set": [["price", "(24, 28]"], ["country", "Italy"]], "sup": 0.010686999407560148}
+{"set": [["price", "(12, 16]"], ["country", "Spain"]], "sup": 0.01066391733540559}
+{"set": [["province", "California"], ["points", "(93.0, 94.0]"]], "sup": 0.010640835263251033}
+{"set": [["province", "California"], ["country", "US"], ["points", "(93.0, 94.0]"]], "sup": 0.010640835263251033}
+{"set": [["price", "(8, 12]"], ["country", "Chile"]], "sup": 0.010625447215147995}
+{"set": [["variety", "Syrah"], ["price", "(36, 60]"]], "sup": 0.010617753191096476}
+{"set": [["price", "(20, 24]"], ["country", "France"]], "sup": 0.010610059167044956}
+{"set": [["province", "Mendoza Province"], ["variety", "Malbec"]], "sup": 0.010517730878426727}
+{"set": [["province", "Mendoza Province"], ["variety", "Malbec"], ["country", "Argentina"]], "sup": 0.010517730878426727}
+{"set": [["province", "Washington"], ["variety", "Cabernet Sauvignon"]], "sup": 0.010502342830323688}
+{"set": [["province", "Washington"], ["country", "US"], ["variety", "Cabernet Sauvignon"]], "sup": 0.010502342830323688}
+{"set": [["points", "(87.0, 88.0]"], ["variety", "Red Blend"]], "sup": 0.010417708565756977}
+{"set": [["variety", "Cabernet Franc"]], "sup": 0.010410014541705457}
+{"set": [["points", "(90.0, 91.0]"], ["country", "Italy"]], "sup": 0.010402320517653938}
+{"set": [["province", "Southern Italy"]], "sup": 0.010379238445499381}
+{"set": [["province", "South Australia"]], "sup": 0.010379238445499381}
+{"set": [["country", "Italy"], ["province", "Southern Italy"]], "sup": 0.010379238445499381}
+{"set": [["province", "South Australia"], ["country", "Australia"]], "sup": 0.010379238445499381}
+{"set": [["price", "(12, 16]"], ["variety", "Chardonnay"]], "sup": 0.010371544421447861}
+{"set": [["points", "(90.0, 91.0]"], ["price", "(60, 100]"]], "sup": 0.010363850397396342}
+{"set": [["province", "Provence"]], "sup": 0.010356156373344824}
+{"set": [["country", "France"], ["province", "Provence"]], "sup": 0.010356156373344824}
+{"set": [["variety", "Gr\u00fcner Veltliner"]], "sup": 0.010348462349293304}
+{"set": [["price", "(28, 32]"], ["points", "(89.0, 90.0]"]], "sup": 0.010317686253087228}
+{"set": [["variety", "Chardonnay"], ["points", "(89.0, 90.0]"]], "sup": 0.010279216132829632}
+{"set": [["points", "(86.0, 87.0]"], ["variety", "Pinot Noir"]], "sup": 0.010217663940417478}
+{"set": [["points", "(86.0, 87.0]"], ["variety", "Red Blend"]], "sup": 0.01020227589231444}
+{"set": [["price", "(12, 16]"], ["points", "(88.0, 89.0]"]], "sup": 0.01010225357964469}
+{"set": [["price", "(36, 60]"], ["points", "(93.0, 94.0]"]], "sup": 0.01010225357964469}
+{"set": [["points", "(82.0, 83.0]"], ["country", "US"]], "sup": 0.01010225357964469}
+{"set": [["price", "(20, 24]"], ["points", "(89.0, 90.0]"]], "sup": 0.010079171507490133}
