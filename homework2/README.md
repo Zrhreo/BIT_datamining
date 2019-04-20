@@ -1,5 +1,5 @@
 # 作业二：关联规则挖掘
-### 1. 运行环境及依赖：
+### 1. 运行环境：
 python 3.5.2
 
 ### 2. 项目结构
@@ -9,6 +9,6 @@ homework2/
 &emsp;&emsp;--rules.json    
 &emsp;&emsp;--result.png    
 &emsp;--src  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# 源码目录     
-&emsp;&emsp;associasionr.py  
-&emsp;&emsp;data.py  
-&emsp;&emsp;visualize.py  
+&emsp;&emsp;--associasionr.py  
+&emsp;&emsp;--data.py  
+&emsp;&emsp;--visualize.py  
